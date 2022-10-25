@@ -80,4 +80,4 @@ tp@serveur:~$
 14)cat /var/log/syslog
 15) afficher les 5 premieres lignes du fichier
  head -n5 /var/log/syslog
-16) - 
+16) - La commande vous permet de scruter le monde caché des processus de démarrage Linux. Passez en revue et surveillez les messages du périphérique matériel et du pilote à partir du tampon en anneau du noyau avec «l’ami du chercheur de pannes».
